@@ -1,0 +1,3 @@
+spaCy Documentation | https://spacy.io/ | Utilized for entity recognition setup and understanding model usage for redacting sensitive information.
+nltk Documentation | https://www.nltk.org/ | Referred to for implementing hypernyms and synonyms for broad concept-based redaction.
+Stack Overflow | https://stackoverflow.com | Offered insights on managing file operations and utilizing mocking techniques in unit tests.
